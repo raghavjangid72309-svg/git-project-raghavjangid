@@ -21,3 +21,7 @@ I am a student at Upgrad school of technology , currently learning Git and GitHu
 ## Social Links
 - GitHub: https://github.com/raghavjangid72309-svg
 - LinkedIn: www.linkedin.com/in/iamraghavjangid
+
+
+## Contact
+- Email: raghavjangid@gmail.com
